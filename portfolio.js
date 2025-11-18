@@ -29,8 +29,8 @@
     typeEffect();
   });
 
-    const RESUME_URL = "assets/Maria-Beno-Vengher-resume-F.pdf";
-  const FILE_NAME  = "Maria-Beno-Vengher-resume-F.pdf";
+    const RESUME_URL = "assets/MARIA BENO VENGHER in.pdf";
+  const FILE_NAME  = "MARIA BENO VENGHER in.pdf";
 
   document.getElementById("downloadResumeBtn").addEventListener("click", function () {
     const a = document.createElement("a");
